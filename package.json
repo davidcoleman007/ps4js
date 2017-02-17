@@ -1,0 +1,27 @@
+{
+  "name": "process-mgr",
+  "version": "1.0.0",
+  "description": "Simple process mgr for mac/win to force kill and gracefully terminate processes.  Can also send signals to a process by name.  Future development will add further features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcoleman007/process-mgr.git"
+  },
+  "keywords": [
+    "process",
+    "ps",
+    "taskkill",
+    "kill",
+    "task",
+    "manager"
+  ],
+  "author": "David Coleman",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/davidcoleman007/process-mgr/issues"
+  },
+  "homepage": "https://github.com/davidcoleman007/process-mgr#readme"
+}
