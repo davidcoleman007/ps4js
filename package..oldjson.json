@@ -19,12 +19,9 @@
     "manager"
   ],
   "author": "David Coleman",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/davidcoleman007/ps4js/issues"
   },
-  "homepage": "https://github.com/davidcoleman007/ps4js#readme",
-  "directories": {
-    "test": "test"
-  }
+  "homepage": "https://github.com/davidcoleman007/ps4js#readme"
 }
