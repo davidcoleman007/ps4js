@@ -1,6 +1,6 @@
 {
   "name": "ps4js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple process mgr for mac/win to force kill and gracefully terminate processes.  Can also send signals to a process by name.  Future development will add further features.",
   "main": "index.js",
   "scripts": {
