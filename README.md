@@ -1,5 +1,4 @@
 # ps4js
-======
 
 This module allows you to list and kill process on OSX and Windows.
 
