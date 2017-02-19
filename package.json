@@ -25,6 +25,12 @@
   },
   "homepage": "https://github.com/davidcoleman007/ps4js#readme",
   "directories": {
-    "test": "test"
+    "doc": "",
+    "test": "test",
+    "example": "examples"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "csv": "^1.1.1"
   }
 }
